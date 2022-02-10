@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan Trawick (<a href="https://twitter.com/otoris" target="blank" title="Otoris' Twitter Account">@Otoris</a>)</h1>
-<h3 align="center">Lead Developer, CX @ Purpose Investments Inc.</h3>
+<h3 align="center">Engineering Manager @ Purpose Investments Inc.</h3>
 
 - 🌱 I’m currently learning **TensorFlow w/ Discord Chat Bots**
 
