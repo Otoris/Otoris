@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ethan Trawick (<a href="https://twitter.com/otoris" target="blank" title="Otoris' Twitter Account">@Otoris</a>)</h1>
-<h3 align="center">Engineering Manager @ Purpose Investments Inc.</h3>
+<h3 align="center">Currently an Engineering Manager @ Purpose Investments Inc.</h3>
 
-- 🌱 I’m currently learning **TensorFlow w/ Discord Chat Bots**
+- 🌱 I’m currently learning about **WebGL w/ [ThreeJS Journey by Bruno Simon](https://threejs-journey.com/)**
 
 - 📝 I regularly talk about my experiences on Twitter. [https://twitter.com/otoris](https://twitter.com/otoris)
 
-- 💬 Ask me about **React, Next.js, Customer Experience**
+- 💬 Ask me about **React, Next.js, Customer Experience, Canadian Fintechs**
 
 - 📫 How to reach me **https://linkedin.com/in/ethan-trawick**
 
@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/otoris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="otoris" height="30" width="40" /></a>
 <a href="https://twitter.com/otoris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="otoris" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ethan-trawick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ethan-trawick" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/otoris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="otoris" height="30" width="40" /></a>
 <a href="https://instagram.com/ethantrawick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ethantrawick" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/otoris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="otoris" height="30" width="40" /></a>
+<a href="https://dev.to/otoris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="otoris" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
