@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ethan Trawick (<a href="https://twitter.com/otoris" target="blank" title="Otoris' Twitter Account">@Otoris</a>)</h1>
+<h1 align="center">Hi 👋, I'm Ethan Trawick (@Otoris)</h1>
 <h3 align="center">Currently an Engineering Manager @ theScore / ESPN</h3>
 
-- 🌱 I’m currently learning about LLMs, Vector Databases, and LangChain via **[Deeplearning.ai](https://deeplearning.ai/)**
-
-- 📝 I regularly talk about my experiences on Twitter. [https://twitter.com/otoris](https://twitter.com/otoris)
+- 🌱 I’m currently learning about LLMs, Vector Databases, and LangChain/Smith/Serve via **[Deeplearning.ai](https://deeplearning.ai/)**
 
 - 💬 Ask me about **React, Next.js, CX/UX, Canadian Fintechs, esports**
 
